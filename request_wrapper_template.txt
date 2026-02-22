@@ -1,0 +1,14 @@
+Customer Name: {{name}}
+Customer Requirement: {{requirement}}
+Language Mode: {{language_mode}}
+min_price: {{min}}
+ideal_price: {{ideal}}
+walkaway_price: {{walkaway}}
+
+Conversation History Summary:
+{{summary}}
+
+Customer Latest Statement:
+{{latest_user_input}}
+
+Instruction: Classify objection, negotiate within pricing guardrails, and return only valid JSON as per system schema.
